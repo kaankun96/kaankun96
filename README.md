@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kaankun96
 - 👀 I’m interested in Mobile Development
-- 💻 I’m currently working on [Appcent](https://www.appcent.mobi/)
+- 💻 I’m currently working on [Appcent](https://www.appcent.mobi/) 
+- 💻 II'm currently freelancing at [iDroid Dev](https://www.idroid.dev) 
 - 🌱 I’m currently learning to use SWIFTUI & Compose
 
 <!---
