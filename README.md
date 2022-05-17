@@ -3,6 +3,9 @@
 - 💻 I’m currently working on [Appcent](https://www.appcent.mobi/) 
 - 💻 II'm currently freelancing at [iDroid Dev](https://www.idroid.dev) 
 - 🌱 I’m currently learning to use SWIFTUI & Compose
+- 🤓 Our Developer Account [Play Store](https://play.google.com/store/apps/developer?id=iDroid+Dev.) with [Arda Altunyay](https://github.com/ardaltunyay)
+- 🤓 Our Developer Account [App Store](https://apps.apple.com/tr/developer/kaan-kun/id1507464230) with [Arda Altunyay](https://github.com/ardaltunyay)
+          
 
 <!---
 kaankun96/kaankun96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
